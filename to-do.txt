@@ -1,0 +1,13 @@
+1. bootstrap: last mai implement
+1b. bootstrap + ajax call
+2. Git simple
+2b. docker
+2c. login form in react
+3a. static site
+3b. crud
+4a. jquery mobile
+4b. aws????
+
+
+you.com
+chatsonic
